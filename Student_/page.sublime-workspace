@@ -1,0 +1,279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"PRIMARY"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"se",
+				"style\tAttr"
+			],
+			[
+				"nav",
+				"navbar-right"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"max-height\tproperty"
+			],
+			[
+				"o",
+				"opacity\tproperty"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/library/Student_/page3",
+		"/C/xampp/htdocs/library/Student_/a.php",
+		"/C/xampp/htdocs/library/Student_/books.php",
+		"/C/xampp/htdocs/library/Student_/connection.php",
+		"/C/xampp/htdocs/library/Student_/edit.php",
+		"/C/xampp/htdocs/library/Student_/expired.php",
+		"/C/xampp/htdocs/library/Student_/feedback.php",
+		"/C/xampp/htdocs/library/Student_/fine.php",
+		"/C/xampp/htdocs/library/Student_/issue_info.php",
+		"/C/xampp/htdocs/library/Student_/logout.php",
+		"/C/xampp/htdocs/library/Student_/navbar.php",
+		"/C/xampp/htdocs/library/Student_/request.php",
+		"/C/xampp/htdocs/library/Student_/style.css",
+		"/C/xampp/htdocs/library/Student_/update_password.php",
+		"/C/xampp/htdocs/library/Student_/test.php",
+		"/C/xampp/htdocs/library/Student_/profile.php",
+		"/C/xampp/htdocs/library/Student_/registration.php",
+		"/C/xampp/htdocs/library/Student_/student_login.php",
+		"/C/xampp/htdocs/library/Student_/index.php",
+		"/C/xampp/htdocs/library/Student_/footer.php",
+		"/C/xampp/htdocs/123/profile.php",
+		"/C/xampp/htdocs/123/student_login.php",
+		"/C/xampp/htdocs/123/registration.php",
+		"/C/xampp/htdocs/123/index.php",
+		"/C/xampp/htdocs/123/connection.php",
+		"/C/xampp/htdocs/123/style.css",
+		"/C/xampp/htdocs/library2/library2.sql",
+		"/C/xampp/htdocs/library2/Student_/student_login.php",
+		"/C/xampp/htdocs/library2/Student_/profile.php",
+		"/C/xampp/htdocs/library2/Student_/registration.php",
+		"/C/xampp/htdocs/123/books.php",
+		"/C/xampp/htdocs/library2/Admin_/connection.php",
+		"/C/xampp/htdocs/library2/Student_/connection.php",
+		"/C/xampp/htdocs/123/navbar.php",
+		"/C/xampp/htdocs/123/Feedback.php",
+		"/C/xampp/htdocs/library2/Admin_/feedback.php",
+		"/C/xampp/htdocs/123/change password.php",
+		"/C/xampp/htdocs/library/change-password.php",
+		"/C/xampp/htdocs/library/student/index.php",
+		"/C/xampp/htdocs/library/student/style.css",
+		"/C/xampp/htdocs/library/student/footer.php",
+		"/C/xampp/htdocs/library/student/registration.php",
+		"/C/xampp/htdocs/library/student/student_login.php",
+		"/C/xampp/htdocs/library/student/books.php",
+		"/C/Users/Dell/IP PROJECT/registration.html",
+		"/C/Users/Dell/IP PROJECT/student_login.html",
+		"/C/Users/Dell/IP PROJECT/index.html",
+		"/C/xampp/htdocs/library/index.php",
+		"/D/XAMPP/htdocs/library/student_login.php",
+		"/D/XAMPP/htdocs/library/registration.php",
+		"/C/Users/Dell/IP PROJECT/style.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "page.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
